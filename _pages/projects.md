@@ -4,8 +4,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% raw %}{% include base_path %}{% endraw %}
-
 ## Current Research Projects
 
 ### Heterogeneous Distribution Self-supervision Personalized Federated Multitask Learning
