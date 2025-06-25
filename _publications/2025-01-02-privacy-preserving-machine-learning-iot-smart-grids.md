@@ -5,6 +5,7 @@ date: 2025-01-02
 venue: "Energies"
 doi: "https://doi.org/10.3390/en18102515"
 type: "manuscript"
+category: "manuscripts"
 layout: single
 author_profile: true
 --- 

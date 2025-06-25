@@ -8,6 +8,7 @@ number: "3"
 pages: "969"
 doi: "https://doi.org/10.3390/s25030969"
 type: "manuscript"
+category: "manuscripts"
 layout: single
 author_profile: true
 --- 
