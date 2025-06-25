@@ -15,7 +15,7 @@ Education
   * Research Field: Federated Learning, Smart Grids, and Artificial Intelligence
 * M.Sc. in Electrical Engineering, NUST University, Pakistan, 2016 - 2019
   * Research Thesis: "Design and Optimization of Hydro/Solar/Wind/DG system using HOMER Pro for Gilgit-Baltistan, Pakistan"
-* B.Sc. in Electrical Engineering, MUST University, Pakistan, 2010 - 2015
+* B.Sc. in Electrical Engineering, MUST University, Pakistan, 2011 - 2015
   * Final Year Project: "Smart Metering with Load Management through Power Line Communication"
 
 Work Experience
@@ -44,9 +44,9 @@ Skills
 
 Publications
 ======
-{% raw %}{% for post in site.publications %}
+{% for post in site.publications %}
   {% include archive-single-cv.html %}
-{% endfor %}{% endraw %}
+{% endfor %}
 
 Awards and Achievements
 ======
