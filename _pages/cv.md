@@ -11,54 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Soongsil University, South Korea, 2021 - Present
+  * Research Field: Federated Learning, Smart Grids, and Artificial Intelligence
+* M.Sc. in Electrical Engineering, NUST University, Pakistan, 2016 - 2019
+  * Research Thesis: "Design and Optimization of Hydro/Solar/Wind/DG system using HOMER Pro for Gilgit-Baltistan, Pakistan"
+* B.Sc. in Electrical Engineering, MUST University, Pakistan, 2010 - 2015
+  * Final Year Project: "Smart Metering with Load Management through Power Line Communication"
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant** (September 2022 - Present)
+  * Distributed Intelligence Lab, Soongsil University, Seoul, South Korea
+  * Research focus on Federated Learning, Smart Grids, and Artificial Intelligence
+  * Developing privacy-preserving methodologies for smart energy systems
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Teaching Assistant** (March 2023 - February 2024)
+  * School of Computer Science and Engineering, Soongsil University, Seoul, South Korea
+  * Courses: Linear Algebra and Mobile Networks
+  * Responsibilities: Assignment evaluation, quiz design, exam grading, student support
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Assistant Intern** (July 2018 - June 2019)
+  * Pakistan Council of Renewable Energy Technologies (PCRET), Islamabad, Pakistan
+  * Projects: Hybrid energy systems design and optimization, biomass energy conversion technologies
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python (Experienced), LaTeX, MATLAB Simulink (Familiar)
+* **Frameworks & Libraries**: TensorFlow Federated, Flower, PyTorch, TensorFlow, Jupyter, Matplotlib, NumPy, Pandas, Scikit-learn
+* **Software Tools**: HOMER Pro, RET Screen, System Advisory Model (SAM)
+* **Languages**: Urdu (Native), English (Fluent)
+* **Miscellaneous**: Academic Research, Teaching Assistance, LaTeX Typesetting and Publishing
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+{% raw %}{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}{% endraw %}
+
+Awards and Achievements
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Selected for Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2024, University of Cambridge U.K.
+* Secured ACNS 2024 Student Travel grant for ACNS International Conference 2024
+* Winner of the 1st Hashoo Foundation Research Grants for my Masters Thesis
+* Beneficiary of USAID funded merit & need based scholarship for whole MSc program
+
+Conference Presentations
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 22nd International Conference on Applied Cryptography and Network Security, Abu Dhabi, UAE, 5-8 March, 2024 (AIoTS Workshop - ACNS 2024)
+* International Conference on Renewable, Applied and New Energy Technologies (ICRANET 2018), November 19-22, 2018 at Air University, Islamabad, Pakistan
+
+Projects Executed
 ======
-* Currently signed in to 43 different slack teams
+* 2023 AISRC Creative Autonomous Project: "Heterogeneous Distribution Self-supervision Personalized Federated Multitask Learning"
+* Design and optimization of green hybrid (hydro/solar/wind) system for community based/grid connected distribution system in Gilgit-Baltistan
+
+Certifications
+======
+* Energy Production, Distribution & Safety, Specialization (4 Course Cert.) awarded by COURSERA
+* Python Data Structures (Course Cert.) awarded by COURSERA
+* Python Programming (Course Cert.) awarded by UDEMY & COURSERA
+* Energy Transition Initiative Towards a Low-Carbon Future (Course Cert.) by IFP School France
+
+Seminars
+======
+* 3-day workshop on Hydro Power held in NUST, Islamabad
+* CPD lecture on "Engineering Leadership" held at The Institution of Engineers, Pakistan
+
+Social Services
+======
+* Environment Protection
+* Climate Change Awareness
+* Community Services
