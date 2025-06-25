@@ -30,15 +30,15 @@ My work at the Distributed Intelligence Lab centers on addressing practical and 
 
 ## Education
 
-- **Ph.D. in Computer Science** (2021 - Present)  
+- **Ph.D. in Computer Science** (September 2021 - Present)  
   Soongsil University, Seoul, South Korea  
   *Research Field: Federated Learning, Smart Grids, and Artificial Intelligence*
 
-- **M.Sc. in Electrical Engineering** (2016 - 2019)  
+- **M.Sc. in Electrical Engineering** (September 2016 - November 2019)  
   National University of Sciences and Technology (NUST), Pakistan  
   *Thesis: "Design and Optimization of Hydro/Solar/Wind/DG system using HOMER Pro for Gilgit-Baltistan, Pakistan"*
 
-- **B.Sc. in Electrical Engineering** (2010 - 2015)  
+- **B.Sc. in Electrical Engineering** (September 2010 - January 2015)  
   Mirpur University of Science & Technology (MUST), Pakistan  
   *Final Year Project: "Smart Metering with Load Management through Power Line Communication"*
 

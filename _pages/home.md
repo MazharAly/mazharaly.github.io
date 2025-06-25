@@ -8,7 +8,7 @@ redirect_from:
 
 ## Welcome!
 
-I am **Mazhar Ali**, a Ph.D. Candidate in Computer Science at Soongsil University, Seoul, South Korea. I am currently working as a Research Assistant in the **Distributed Intelligence Lab (DIL)** under the supervision of Prof. Byung-Jae Choi.
+I am **Mazhar Ali**, a Ph.D. Candidate in Computer Science at Soongsil University, Seoul, South Korea. I am currently working as a Research Assistant in the **Distributed Intelligence Lab (DIL)** under the supervision of Prof. David (Bong Jun) Choi.
 
 ## Research Focus
 
@@ -38,7 +38,7 @@ Distributed Intelligence Lab, Soongsil University
 
 - **Ph.D. in Computer Science** (2021 - Present) - Soongsil University, South Korea
 - **M.Sc. in Electrical Engineering** (2016 - 2019) - NUST University, Pakistan  
-- **B.Sc. in Electrical Engineering** (2010 - 2015) - MUST University, Pakistan
+- **B.Sc. in Electrical Engineering** (2011 - 2015) - MUST University, Pakistan
 
 ## Contact
 
