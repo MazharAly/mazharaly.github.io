@@ -8,4 +8,6 @@ number: "1"
 pages: "152"
 doi: "https://doi.org/10.3390/electronics14010152"
 type: "manuscript"
+layout: single
+author_profile: true
 --- 

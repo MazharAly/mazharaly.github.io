@@ -7,4 +7,6 @@ publisher: "Springer Nature Switzerland"
 pages: "235–245"
 doi: "https://doi.org/10.1007/978-3-031-61486-6_14"
 type: "conferences"
+layout: single
+author_profile: true
 --- 

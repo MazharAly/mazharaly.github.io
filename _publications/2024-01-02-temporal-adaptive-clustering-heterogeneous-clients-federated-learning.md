@@ -6,4 +6,6 @@ venue: "38th International Conference on Information Networking (ICOIN)"
 location: "Ho Chi Minh City, Vietnam"
 doi: "https://doi.org/10.1109/ICOIN59985.2024.10572174"
 type: "conferences"
+layout: single
+author_profile: true
 --- 
